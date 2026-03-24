@@ -1,0 +1,6 @@
+CompileFlaggs:
+  Add:
+    - "-I./src"
+    - "-I./drivers"
+    - "-Ibuild"
+  Compiler: gcc
